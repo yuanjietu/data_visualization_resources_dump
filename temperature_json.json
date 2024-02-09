@@ -1,0 +1,522 @@
+[
+  {
+    "year": 1894,
+    "temp_sea": 9.9
+  },
+  {
+    "year": 1895,
+    "temp_sea": 10.1
+  },
+  {
+    "year": 1896,
+    "temp_sea": 10.3
+  },
+  {
+    "year": 1897,
+    "temp_sea": 10.2
+  },
+  {
+    "year": 1898,
+    "temp_sea": 10.5
+  },
+  {
+    "year": 1899,
+    "temp_sea": 10
+  },
+  {
+    "year": 1900,
+    "temp_sea": 10.2
+  },
+  {
+    "year": 1901,
+    "temp_sea": 9.9
+  },
+  {
+    "year": 1902,
+    "temp_sea": 10.5
+  },
+  {
+    "year": 1903,
+    "temp_sea": 10.7
+  },
+  {
+    "year": 1904,
+    "temp_sea": 10.2
+  },
+  {
+    "year": 1905,
+    "temp_sea": 10.5
+  },
+  {
+    "year": 1906,
+    "temp_sea": 9.8
+  },
+  {
+    "year": 1907,
+    "temp_sea": 10.3
+  },
+  {
+    "year": 1908,
+    "temp_sea": 10.5
+  },
+  {
+    "year": 1909,
+    "temp_sea": 10.8
+  },
+  {
+    "year": 1910,
+    "temp_sea": 11.1
+  },
+  {
+    "year": 1911,
+    "temp_sea": 10.7
+  },
+  {
+    "year": 1912,
+    "temp_sea": 10.5
+  },
+  {
+    "year": 1913,
+    "temp_sea": 10.3
+  },
+  {
+    "year": 1914,
+    "temp_sea": 10.4
+  },
+  {
+    "year": 1915,
+    "temp_sea": 10.7
+  },
+  {
+    "year": 1916,
+    "temp_sea": 9.8
+  },
+  {
+    "year": 1917,
+    "temp_sea": 10.3
+  },
+  {
+    "year": 1918,
+    "temp_sea": 10.6
+  },
+  {
+    "year": 1919,
+    "temp_sea": 10.5
+  },
+  {
+    "year": 1920,
+    "temp_sea": 10.5
+  },
+  {
+    "year": 1921,
+    "temp_sea": 12.3
+  },
+  {
+    "year": 1922,
+    "temp_sea": 11.5
+  },
+  {
+    "year": 1923,
+    "temp_sea": 11.7
+  },
+  {
+    "year": 1924,
+    "temp_sea": 12.1
+  },
+  {
+    "year": 1925,
+    "temp_sea": 10.9
+  },
+  {
+    "year": 1926,
+    "temp_sea": 11.2
+  },
+  {
+    "year": 1927,
+    "temp_sea": 11.4
+  },
+  {
+    "year": 1928,
+    "temp_sea": 10.2
+  },
+  {
+    "year": 1929,
+    "temp_sea": 9.8
+  },
+  {
+    "year": 1930,
+    "temp_sea": 11.2
+  },
+  {
+    "year": 1931,
+    "temp_sea": 11.3
+  },
+  {
+    "year": 1932,
+    "temp_sea": 10.6
+  },
+  {
+    "year": 1933,
+    "temp_sea": 10.8
+  },
+  {
+    "year": 1934,
+    "temp_sea": 10.1
+  },
+  {
+    "year": 1935,
+    "temp_sea": 11.3
+  },
+  {
+    "year": 1936,
+    "temp_sea": 10.4
+  },
+  {
+    "year": 1937,
+    "temp_sea": 10.9
+  },
+  {
+    "year": 1938,
+    "temp_sea": 11
+  },
+  {
+    "year": 1939,
+    "temp_sea": 12.1
+  },
+  {
+    "year": 1940,
+    "temp_sea": 12.5
+  },
+  {
+    "year": 1941,
+    "temp_sea": 11.1
+  },
+  {
+    "year": 1942,
+    "temp_sea": 10.2
+  },
+  {
+    "year": 1943,
+    "temp_sea": 10.4
+  },
+  {
+    "year": 1944,
+    "temp_sea": 10.3
+  },
+  {
+    "year": 1945,
+    "temp_sea": 10.9
+  },
+  {
+    "year": 1946,
+    "temp_sea": 11
+  },
+  {
+    "year": 1947,
+    "temp_sea": 11.2
+  },
+  {
+    "year": 1948,
+    "temp_sea": 10.1
+  },
+  {
+    "year": 1949,
+    "temp_sea": 11.2
+  },
+  {
+    "year": 1950,
+    "temp_sea": 12
+  },
+  {
+    "year": 1951,
+    "temp_sea": 11.5
+  },
+  {
+    "year": 1952,
+    "temp_sea": 10.1
+  },
+  {
+    "year": 1953,
+    "temp_sea": 9.9
+  },
+  {
+    "year": 1954,
+    "temp_sea": 11.9
+  },
+  {
+    "year": 1955,
+    "temp_sea": 12.1
+  },
+  {
+    "year": 1956,
+    "temp_sea": 10.5
+  },
+  {
+    "year": 1957,
+    "temp_sea": 10.2
+  },
+  {
+    "year": 1958,
+    "temp_sea": 9.8
+  },
+  {
+    "year": 1959,
+    "temp_sea": 10
+  },
+  {
+    "year": 1960,
+    "temp_sea": 9.9
+  },
+  {
+    "year": 1961,
+    "temp_sea": 9.6
+  },
+  {
+    "year": 1962,
+    "temp_sea": 11
+  },
+  {
+    "year": 1963,
+    "temp_sea": 11.1
+  },
+  {
+    "year": 1964,
+    "temp_sea": 11.3
+  },
+  {
+    "year": 1965,
+    "temp_sea": 12
+  },
+  {
+    "year": 1966,
+    "temp_sea": 11.9
+  },
+  {
+    "year": 1967,
+    "temp_sea": 12.5
+  },
+  {
+    "year": 1968,
+    "temp_sea": 12.8
+  },
+  {
+    "year": 1969,
+    "temp_sea": 12.7
+  },
+  {
+    "year": 1970,
+    "temp_sea": 13
+  },
+  {
+    "year": 1971,
+    "temp_sea": 12.8
+  },
+  {
+    "year": 1972,
+    "temp_sea": 13.1
+  },
+  {
+    "year": 1973,
+    "temp_sea": 14.1
+  },
+  {
+    "year": 1974,
+    "temp_sea": 13.7
+  },
+  {
+    "year": 1975,
+    "temp_sea": 12.5
+  },
+  {
+    "year": 1976,
+    "temp_sea": 13.8
+  },
+  {
+    "year": 1977,
+    "temp_sea": 13.9
+  },
+  {
+    "year": 1978,
+    "temp_sea": 13.8
+  },
+  {
+    "year": 1979,
+    "temp_sea": 14.2
+  },
+  {
+    "year": 1980,
+    "temp_sea": 14.2
+  },
+  {
+    "year": 1981,
+    "temp_sea": 14.6
+  },
+  {
+    "year": 1982,
+    "temp_sea": 13.2
+  },
+  {
+    "year": 1983,
+    "temp_sea": 14.3
+  },
+  {
+    "year": 1984,
+    "temp_sea": 14.7
+  },
+  {
+    "year": 1985,
+    "temp_sea": 14.9
+  },
+  {
+    "year": 1986,
+    "temp_sea": 14.8
+  },
+  {
+    "year": 1987,
+    "temp_sea": 15
+  },
+  {
+    "year": 1988,
+    "temp_sea": 15.1
+  },
+  {
+    "year": 1989,
+    "temp_sea": 14.7
+  },
+  {
+    "year": 1990,
+    "temp_sea": 14.9
+  },
+  {
+    "year": 1991,
+    "temp_sea": 14.7
+  },
+  {
+    "year": 1992,
+    "temp_sea": 14.5
+  },
+  {
+    "year": 1993,
+    "temp_sea": 14.2
+  },
+  {
+    "year": 1994,
+    "temp_sea": 14.5
+  },
+  {
+    "year": 1995,
+    "temp_sea": 14.8
+  },
+  {
+    "year": 1996,
+    "temp_sea": 15.1
+  },
+  {
+    "year": 1997,
+    "temp_sea": 15.2
+  },
+  {
+    "year": 1998,
+    "temp_sea": 15.4
+  },
+  {
+    "year": 1999,
+    "temp_sea": 15.7
+  },
+  {
+    "year": 2000,
+    "temp_sea": 15.4
+  },
+  {
+    "year": 2001,
+    "temp_sea": 15.6
+  },
+  {
+    "year": 2002,
+    "temp_sea": 15.9
+  },
+  {
+    "year": 2003,
+    "temp_sea": 16.1
+  },
+  {
+    "year": 2004,
+    "temp_sea": 14.1
+  },
+  {
+    "year": 2005,
+    "temp_sea": 14.6
+  },
+  {
+    "year": 2006,
+    "temp_sea": 15.8
+  },
+  {
+    "year": 2007,
+    "temp_sea": 16.3
+  },
+  {
+    "year": 2008,
+    "temp_sea": 16.4
+  },
+  {
+    "year": 2009,
+    "temp_sea": 16.4
+  },
+  {
+    "year": 2010,
+    "temp_sea": 17.2
+  },
+  {
+    "year": 2011,
+    "temp_sea": 16.8
+  },
+  {
+    "year": 2012,
+    "temp_sea": 16.4
+  },
+  {
+    "year": 2013,
+    "temp_sea": 16.5
+  },
+  {
+    "year": 2014,
+    "temp_sea": 17.5
+  },
+  {
+    "year": 2015,
+    "temp_sea": 17.4
+  },
+  {
+    "year": 2016,
+    "temp_sea": 17.8
+  },
+  {
+    "year": 2017,
+    "temp_sea": 18.1
+  },
+  {
+    "year": 2018,
+    "temp_sea": 17.9
+  },
+  {
+    "year": 2019,
+    "temp_sea": 17.5
+  },
+  {
+    "year": 2020,
+    "temp_sea": 18.4
+  },
+  {
+    "year": 2021,
+    "temp_sea": 19.2
+  },
+  {
+    "year": 2022,
+    "temp_sea": 20.1
+  },
+  {
+    "year": 2023,
+    "temp_sea": 20.7
+  }
+]
